@@ -23,7 +23,7 @@ const BrandSection = () => {
     <div className="flex flex-col md:flex-row">
         <div className="flex-1 bg-black text-white">
             <div className="p-8 px-12">
-                <h1 className="text-6xl font-semibold mb-8">
+                <h1 className="text-3xl md:text-6xl font-semibold mb-8">
                 {
                 counter == 0 && 'Brand naming & guidelines' ||
                 counter == 1 && 'Brand identity & merchandise' ||
