@@ -23,7 +23,7 @@ const DISSection = () => {
                 </button>
             </div>
         </div>
-        <div className='absolute top-[13.5rem] md:top-1/2 left-24 md:left-1/2 wave-red'>
+        <div className='absolute hidden md:flex top-1/2 left-1/2 wave-red'>
             <img src="./assets/desktop/bg-pattern-wave-red.svg" className='w-[50%] md:w-full' alt="" />
         </div>
         <div className='bg-[#f94f4f] h-[12rem] w-[50rem] hidden md:flex absolute md:bottom-0 md:right-0' />

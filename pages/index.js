@@ -1,5 +1,7 @@
 import Head from 'next/head'
+import BrandSection from '../components/BrandSection'
 import DISSection from '../components/DISSection'
+import Footer from '../components/Footer'
 import Header from '../components/Header'
 import Hero from '../components/Hero'
 import Service from '../components/Service'
@@ -17,6 +19,8 @@ export default function Home() {
       <Hero />
       <DISSection />
       <Service />
+      <BrandSection />
+      <Footer />
       
     </div>
   )

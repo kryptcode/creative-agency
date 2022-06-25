@@ -9,8 +9,8 @@ const Service = () => {
             Our approach for creating a winning brand 
             </h1>
         </div>
-        <div className='bg-[#f94f4f] w-[50rem] py-8 px-16'>
-          <div className='text-2xl font-semibold text-white flex lg:hidden'>
+        <div className='bg-[#f94f4f] w-[50rem] py-8 px-8 md:px-16'>
+          <div className='text-2xl font-semibold text-white flex lg:hidden mb-10'>
           Our approach for creating a winning brand
           </div>
             <ServicePoint no='01' heading='Brand Strategy' text='Brand strategy is critical for long-term success. Outshining competitors and capturing the target audience are key.' />
